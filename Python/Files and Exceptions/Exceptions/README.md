@@ -1,0 +1,1 @@
+Various examples on how to handle some errors in Python
