@@ -1,0 +1,1 @@
+An extension of the folder "Functions" that talks about inheritance; basically, how classes anf objects relate
