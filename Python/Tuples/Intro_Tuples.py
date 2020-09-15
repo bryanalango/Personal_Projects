@@ -1,5 +1,5 @@
 # Tuples are lists that cannot change
-# The ability of not changing is referred to us immutability
+# The ability of not changing is referred to as immutability
 # Parenthesis are used instead of square brackets
 print("\n")
 
