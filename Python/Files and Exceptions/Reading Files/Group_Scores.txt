@@ -1,0 +1,6 @@
+First_Name	Last_Name	Score	Grade
+Bryan		Alang'o		89	A
+Andrew		Penzi		80	A
+Samuel		Maina		85	A
+Collins		Mutwiri		81	A
+Dennis		Mugo		89	A
